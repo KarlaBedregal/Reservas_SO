@@ -1,9 +1,9 @@
 # Servicio concurrente de reservas (C/POSIX)
 
-Sistemas Operativos · UNSA · 2026-B · Docente: MSc. Norman Patrick Harvey Arce
+Sistemas Operativos · Docente: MSc. Norman Patrick Harvey Arce
 Alumna: Bedregal Coaguila, Karla Miluska
 
-Práctica domiciliaria de la Semana 7 (sincronización de procesos). Un servicio
+Práctica domiciliaria (sincronización de procesos). Un servicio
 administra **M recursos** y varias solicitudes (threads) los **consultan,
 reservan, cancelan y esperan** disponibilidad.
 
